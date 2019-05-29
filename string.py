@@ -1,2 +1,2 @@
-s='python'
+s=input()
 print(s+'.')
